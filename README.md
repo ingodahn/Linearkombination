@@ -1,4 +1,5 @@
-# Linearkombination
-Jupyter Notebook zur Darstellung eines Vektors als Linearkombination
+# Notebooks
+Jupyter Notebooks für die Mathe-Lehre
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ingodahn/Linearkombination/master?filepath=Linearkombination.ipynb)
+_Darstellung eines Vektors als Linearkombination_: Hier klicken:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ingodahn/notebooks/master?filepath=Linearkombination.ipynb)
